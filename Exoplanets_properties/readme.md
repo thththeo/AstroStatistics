@@ -1,6 +1,6 @@
 This is a project in exploring a multivariate dataset of random variables. The steps taken in the analysis are as follows:
 
-- 1) __Download dataset__ Obtain an ASCII multivariate dataset from The Extrasolar Planets Encyclopedia (http://exoplanet.eu/catalog.php (http://exoplanet.eu/catalog.php)). Select variables of interest of both the planet and host star … be generous, as extraneous variables can be omitted later. [names, dim, summary]
+- 1) __Download dataset__ Obtain an ASCII multivariate dataset from The Extrasolar Planets Encyclopedia (http://exoplanet.eu/catalog.php (http://exoplanet.eu/catalog.php)). Select variables of interest of both the planet and host star
 
 - 2) __Univariate analysis__ Present the mass distribution of known exoplanets. Consider stratifying by discovery method (radial velocity vs. transits). Try making pretty overlapping histograms with unsaturated colors from the ColorBrewer palette. [boxplot, hist, density]
 
